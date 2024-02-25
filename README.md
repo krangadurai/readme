@@ -78,8 +78,6 @@
       alt="React.js"/> 
       </a>
   <a href="https://www.glitch.org/" target="_blank">
-    <img src="https://img.shields.io/badge/glitch-000000.svg?style=for-the-badge&logo=glitch&logoColor=red"
-      alt="glitch" />
     <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <a href="https://www.netlify.com/" target="_blank">
     <img src="https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify&logoColor=green"
@@ -89,10 +87,7 @@
    
 <h3 align="center">𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞</h3>
 <p align="center">
-  <a href="" target="_blank"> 
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
-      alt="Firebase"/> 
-  </a>
+
   <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white"
       alt="MySQL"/> 
@@ -106,9 +101,7 @@
     <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
       alt="redis"/>
   </a>
-      
-  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    
   </a>
   </p>
 
