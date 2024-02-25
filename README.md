@@ -63,7 +63,6 @@
       alt="express" />
   </a>
     <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
-  <img alt="Server" src="https://img.shields.io/badge/server-%23039BE5.svg?style=for-the-badge&logo=Server"/>
     </a>
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
@@ -87,9 +86,7 @@
       alt="netlify" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-    <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-      
+   
 <h3 align="center">𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞</h3>
 <p align="center">
   <a href="" target="_blank"> 
@@ -114,15 +111,6 @@
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   </a>
   </p>
-<h3 align="center">𝐂𝐥𝐨𝐮𝐝 & 𝐇𝐨𝐬𝐭𝐢𝐧𝐠:</h3>
-<p align="center">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
-  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  </a>
-  
-</p>
 
  <h3 align="center">𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 & 𝐂𝐈/𝐂𝐃</h3>
 <p align="center">
@@ -133,13 +121,10 @@
   <a href="https://github.com/divyaGrvgithub" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://gitlab.com/divyaGrvgithub" target="_blank">
+  <a href="https://github.com/krangadurai/" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=Blue"
       alt="gitlab"/>
-      <a href="https://bitbucket.org/divyagrv-workspace/workspace/overview" target="_blank">
-    <img src="https://img.shields.io/badge/bitbucket-181717.svg?style=for-the-badge&logo=bitbucket&logoColor=red"
-      alt="bitbucket"/>
-      <img alt="Azure DevOps" src="https://img.shields.io/badge/azuredevops-%23039BE5.svg?style=for-the-badge&logo=Azure DevOps"/>
+      
 
 <hr>
 
